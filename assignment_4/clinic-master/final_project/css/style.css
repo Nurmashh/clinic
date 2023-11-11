@@ -1,0 +1,222 @@
+*{
+  box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .content {
+    height: 150vh; 
+    background-image: url('your-background-image.jpg'); 
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+
+.logo{
+    width: 75px;
+}
+
+.registration{
+  margin-left: 750px;
+}
+
+#but-ser{
+  padding-right: 30px;
+  margin-left: 600px;
+}
+
+
+
+
+.carousel{
+   width: 800px;
+   margin: auto;
+}
+
+#About{
+  background-color: #F3F3F3;
+}
+
+.image-text{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 50px 0;
+  padding: 0 50px;
+}
+
+
+
+.map{
+    display: flex;
+  align-items: end;
+}
+
+
+#medics{
+  padding-left: 50px;
+  width: 400px;
+}
+
+p{
+  margin-left: 50px;
+
+}
+
+.history{
+  display: flex;
+}
+
+.maps{
+
+  max-width: 1300px;
+   margin: 0 auto;
+            padding: 2px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            /* margin-top: 50px; */
+
+  display: flex;
+}
+
+.coment-img{
+  border-radius: 100%;
+  width: 200px;
+}
+
+.form{
+  margin-left: 20px;
+  width: 100%;
+}
+
+/* form */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* end of form */
+
+
+.reviews{
+  background-color: #F3F3F3;
+  padding-left: 120px;
+}
+
+.image-coment{
+  
+  font-size: 16px;
+  text-align: center;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width: 100%;
+display: flex;
+align-items: center;
+margin: 50px 0;
+padding: 0 50px;
+}
+
+.coment-img{
+  width: 145px;
+
+}
+
+/* service nav */
+navbar-nav{
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.navbar-nav .nav-link {
+  font-size: 16px; 
+}
+
+.image-text{
+font-size: 16px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+navbar navbar-expand-lg navbar-light bg-light{
+font-size: 14px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+/* end of service navbar */
+
+
+.last-page{
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 0px 60px 50px;
+  height: 240px;
+  background-color: black;
+}
+
+.last-img{
+
+ 
+  width: 100px;
+  height: auto;
+}
+
+.hr{
+  background-color: black;
+  color: rgba(0, 0, 0, 0.1);
+  margin: 0 0 0 0;
+}
+
+.footer-copyright{
+  height: 84px;
+  background-color: black;
+}
+
+
+.footer-copyright p{
+  padding-left: 520px;
+  
+  
+  height: 33.42px;
+  color: white;
+}
+
+/* #telegram{
+  padding-right:20px ;
+}
+
+#github{
+  padding-right: 10px;
+}
+
+#facebook{
+
+} */
